@@ -24,10 +24,11 @@
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
-<a href="https://www.solidjs.com/" target="_blank"><img style="margin: 10px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="Nuxt JS" height="50" />
+<a href="https://www.solidjs.com/" target="_blank"><img style="margin: 10px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="solid js" height="50" />
   </a>  
-<a href="https://www.nextjs.org/" target="_blank"><img style="margin: 10px" src="https://uploads-ssl.webflow.com/60f7c21bdbb6dface76c1651/62313e5203ea7585229fe887_nextjs_icon_132160.png" alt="Nuxt JS" height="50" /> </a>
-<a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Nuxt JS" height="50" /></a> 
+<a href="https://www.nextjs.org/" target="_blank"><img style="margin: 10px" src="https://uploads-ssl.webflow.com/60f7c21bdbb6dface76c1651/62313e5203ea7585229fe887_nextjs_icon_132160.png" alt="Next JS" height="50" /> </a>
+<a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" height="50" /></a> 
+<a href="https://www.11ty.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/11ty/11ty-logo/HEAD/img/logo-400x400.png" alt="11ty" height="50" /></a> 
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
